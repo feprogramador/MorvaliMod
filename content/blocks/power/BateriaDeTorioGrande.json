@@ -10,7 +10,7 @@
       },
     "BuildVisibility": "shown",
     "requirements": [
-        {"item": "lead", "amount": 40},
+        {"item": "lead", "amount": 45},
         {"item": "titanium", "amount": 40},
         {"item": "silicon", "amount": 30},
         {"item": "thorium", "amount": 90}
