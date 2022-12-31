@@ -5,7 +5,7 @@
 	"category": "defense",
 	"size": 2,
 	"health": 1900,
-	"chanceDeflect": 90,
+	"chanceDeflect": 100,
 	"flashHit": false,
 	"insulated": false,
 	"absorbLasers": true,

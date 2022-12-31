@@ -1,17 +1,17 @@
 {
 	"type": "Battery",
-    "name": "Thorium Battery",
-	"description": "Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a regular Battery.",
+    "name": "bateria de tório",
+	"description": "armazena mais energia que uma bateria comum, fragil",
     "category": "power",
-    "health": 160,
+    "health": 10,
     "consumes": {
-      "powerBuffered": "12500.0"
+      "powerBuffered": "15000.0"
       },
     "BuildVisibility": "shown",
     "requirements": [
         {"item": "copper", "amount": 5},
         {"item": "lead", "amount": 20},
-        {"item": "thorium", "amount": 15}
+        {"item": "thorium", "amount": 20}
     ],
     "research": "battery"
 }
