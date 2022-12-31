@@ -1,0 +1,19 @@
+{
+	"type": "Wall",
+	"name": "muralha de latão grande",
+	"description": "reflete a maior parte das balas e absorve lasers, resistencia mediana",
+	"category": "defense",
+	"size": 2,
+	"health": 1900,
+	"chanceDeflect": 90,
+	"flashHit": false,
+	"insulated": false,
+	"absorbLasers": true,
+	"requirements": [
+		{
+			"item": "latão",
+			"amount": 12
+		}
+	],
+	"research": "phase-wall"
+}

@@ -1,0 +1,19 @@
+{
+	"type": "Wall",
+	"name": "muralha de latão pequena",
+	"description": "reflete a maior parte das balas e absorve lasers, resistencia mediana",
+	"category": "defense",
+	"health": 450,
+	"size": 1,
+	"chanceDeflect": 90,
+	"flashHit": false,
+	"insulated": false,
+	"absorbLasers": true,
+	"requirements": [
+		{
+			"item": "latão",
+			"amount": 4
+		}
+	],
+	"research": "phase-wall"
+}
