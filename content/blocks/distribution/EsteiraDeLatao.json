@@ -1,0 +1,15 @@
+{
+    "type": "ArmoredConveyor",
+    "name": "Esteira reforçada",
+	"description": "um pouco mais lento que uma esteira de titanio, muito resistente. não aceita items dos lados",
+    "category": "distribution",
+    "health": 120,
+    "speed": 0.08,
+    "displayedSpeed": 9,
+    "requirements": [
+        {"item": "latão", "amount": 5},
+        {"item": "lead", "amount": 5},
+        {"item": "titanium", "amount": 2}
+    ],
+    "research": "titanium-conveyor"
+}
